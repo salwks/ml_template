@@ -1,0 +1,1 @@
+export const dashboard = (req, res) => res.send("대시보드")
