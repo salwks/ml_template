@@ -1,0 +1,14 @@
+{
+  "name": "ml_template",
+  "version": "1.0.0",
+  "description": "Mobile Leader NextGen WebSystem Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaeho Shin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
